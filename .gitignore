@@ -1,0 +1,13 @@
+#files
+.project
+.classpath
+*.orig
+
+#directory
+/test-output/
+test-output/
+/target/
+target/
+bin/
+classes/
+.settings/
